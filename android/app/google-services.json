@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424094790164",
+    "project_id": "goodstudy-bac7a",
+    "storage_bucket": "goodstudy-bac7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424094790164:android:76a7da89c020e22f43ed01",
+        "android_client_info": {
+          "package_name": "goodstudy.com.projeto_goodstudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNgIYvYhKjOXhU3tolhpZ-6VkF4eMVVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
